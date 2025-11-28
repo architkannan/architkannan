@@ -1,15 +1,13 @@
 # Hi, I’m Archit
 
-I’m a data and business analyst who enjoys understanding how things actually work. In every role I’ve taken on, I’ve seen teams put in the effort but struggle with unclear processes or scattered data. That pushed me toward analytics, and it helped me uncover the systems, workflows, and bottlenecks that shape real performance.
+I combine product and marketing experience with analytics expertise to build data-driven, impact-focused projects. My work sits at the intersection of workflows, processes, and data. I help teams understand what’s really happening beneath the surface so they can make better decisions with clarity and confidence.
 
-Today, I focus on turning messy datasets and opaque processes into clear insights. I work across SQL, Python, Power BI, and Excel to build dashboards, define KPIs, and create reporting setups that help teams make better, faster decisions.
-
-### What I work on
+### What I've worked on
 - Improving process visibility in low-data-maturity environments.
-- Defining KPIs and establishing consistent measurement methods.
-- Building Power BI dashboards and data models that highlight what matters.
-- Analyzing funnels, onboarding journeys, and operational data to find bottlenecks.
-- Working with cross-functional teams to streamline workflows and support decision-making.
+- Defining KPIs and setting up consistent reporting foundations.
+- Building Power BI dashboards and data models that highlight operational and performance insights.
+- Analyzing onboarding, funnel, and operational datasets to uncover bottlenecks and growth opportunities.
+- Partnering with cross-functional teams to streamline workflows and strengthen decision-making.
 
 ### Tools & Skills
 **Power BI · SQL · Python · Excel · Process Mapping · KPI Design · Dashboarding · Data Storytelling**
