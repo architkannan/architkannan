@@ -13,7 +13,7 @@ I combine product and marketing experience with analytics expertise to build dat
 **Power BI · SQL · Python · Excel · Process Mapping · KPI Design · Dashboarding · Data Storytelling**
 
 ### Roles I’m exploring
-**Data Analyst · BI Analyst · Business Analyst (data/ops) · Senior Data Analyst · Analytics Consultant · BI Developer**
+**Data Analyst · BI Analyst · Business Analyst (data/ops) · Senior Data Analyst · Analytics Consultant**
 
 If you’re hiring, collaborating, or just curious about my work, feel free to reach out.
 
