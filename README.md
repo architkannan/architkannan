@@ -10,11 +10,11 @@ I focus on building **funnel frameworks, KPI systems, and GTM processes** that h
 
 ## 🔍 What I Work On
 
-- Designing **KPI frameworks and performance tracking systems** to improve business visibility
-- Building and **optimizing sales funnels, onboarding workflows, and GTM processes**
-- Identifying **operational bottlenecks and conversion gaps** through structured analysis
-- Creating **governance and reporting systems** to enable consistent decision-making
-- Translating business problems into **measurable metrics and actionable insights**
+- Solving **visibility and performance gaps** in business processes  
+- Improving **funnels, onboarding flows, and GTM execution**  
+- Figuring out where things break in operations and how to fix them  
+- Building simple systems to **track performance and support better decisions**  
+- Turning business problems into **clear metrics and actionable insights**  
 
 ---
 
