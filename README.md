@@ -1,35 +1,37 @@
 # Hi, I'm Archit 👋
 
-I’m a **Business Intelligence & Analytics professional** focused on turning operational data into insights that support better decision-making.
+I’m a **Strategy & Operations** professional focused on building systems that enable revenue growth and business performance
 
-My work sits at the intersection of **business processes, performance metrics, and data analysis**. I enjoy building analytics frameworks, dashboards, and data models that help teams understand what’s happening inside their operations and where improvements can be made.
+My work sits at the intersection of **strategy, operations, and business performance**, where I design systems that improve visibility, optimize processes, and enable better decision-making.
+
+I focus on building **funnel frameworks, KPI systems, and GTM processes** that help teams scale efficiently and identify where performance can be improved.
 
 ---
 
 ## 🔍 What I Work On
 
-- Building **Power BI dashboards** to improve operational and performance visibility  
-- Designing **KPI frameworks and reporting systems** in low data-maturity environments  
-- Analyzing **sales funnels, onboarding workflows, and operational datasets** to identify bottlenecks  
-- Creating **structured analytics and reporting processes** for data-driven decision-making  
-- Translating business questions into **data models, metrics, and visualizations**
+- Designing **KPI frameworks and performance tracking systems** to improve business visibility
+- Building and **optimizing sales funnels, onboarding workflows, and GTM processes**
+- Identifying **operational bottlenecks and conversion gaps** through structured analysis
+- Creating **governance and reporting systems** to enable consistent decision-making
+- Translating business problems into **measurable metrics and actionable insights**
 
 ---
 
 ## 🧰 Tools & Skills
 
-**Power BI · SQL · Python · Excel · Data Visualization · Dashboard Development · KPI Design · Operational Analytics · Data Analysis**
+**Power BI · SQL · Excel · KPI Design · Revenue Operations · GTM Operations · Funnel Optimization · Process Optimization · Business Performance**
 
 ---
 
 ## 🎯 Roles I'm Exploring
 
-**Business Intelligence Analyst · Analytics Consultant · Business Analyst (Data / Operations) · Data Analyst · Reporting Analyst**
+**Strategy & Operations Analyst · Business Operations Analyst · Growth / Revenue Operations Analyst · Strategy Operations Consultant**
 
 ---
 
 ## 📫 Contact
 
-If you're hiring, collaborating, or just want to talk analytics:
+If you're hiring, collaborating, or just want to talk:
 
 📩 **architkannan@zohomail.in**
