@@ -1,37 +1,29 @@
-# Hi, I'm Archit 👋
+# Hi, I'm Archit
 
-I’m a **Strategy & Operations** professional focused on building systems that enable revenue growth and business performance
+I'm a **Strategy & Operations** professional. My work sits in the layer between the people who set direction and the people who execute it, building the systems, frameworks, and governance structures that make distributed operations visible, accountable, and scalable.
 
-My work sits at the intersection of **strategy, operations, and business performance**, where I design systems that improve visibility, optimize processes, and enable better decision-making.
-
-I focus on building **funnel frameworks, KPI systems, and GTM processes** that help teams scale efficiently and identify where performance can be improved.
+Most of what I've done professionally comes down to the same problem in different contexts: an operation that has grown faster than its systems, and leadership that cannot see clearly enough to fix it. At **BCG**, I built a national sales governance system for an NBFC's lending rollout across 30+ branches, reducing disbursal TAT from 24 to 14 days while disbursements scaled from ₹1 Cr to ₹36 Cr in five months. At **Yes Bank**, I designed the onboarding framework and war-room governance for the bank's Connected Banking rollout, enabling 2,000+ corporate onboardings. At **Aegion**, I diagnosed why five simultaneous operational workstreams were stalling at an NGO and redesigned the governance structures to fix the root cause.
 
 ---
 
-## 🔍 What I Work On
+## What I work on
 
-- Solving **visibility and performance gaps** in business processes  
-- Improving **funnels, onboarding flows, and GTM execution**  
-- Figuring out where things break in operations and how to fix them  
-- Building simple systems to **track performance and support better decisions**  
-- Turning business problems into **clear metrics and actionable insights**  
+Diagnosing where **distributed operations** are breaking, not from dashboards but from first-principles analysis of workflow, data capture, and system design. Defining **KPIs** before worrying about how to display them. Building the **operating models, process frameworks, and governance rhythms** that make execution accountable. Writing functional specifications for systems that do not exist yet and need to be stood up under live conditions.
 
 ---
 
-## 🧰 Tools & Skills
+## Tools and skills
 
-**Power BI · SQL · Excel · KPI Design · Revenue Operations · GTM Operations · Funnel Optimization · Process Optimization · Business Performance**
-
----
-
-## 🎯 Roles I'm Exploring
-
-**Strategy & Operations Analyst · Business Operations Analyst · Growth / Revenue Operations Analyst · Strategy Operations Consultant**
+**SQL** · **Power BI** (Microsoft PL-300 certified) · **Advanced Excel** · **KPI Design** · **Process Design** · **Operating Process Design** · **Stakeholder Alignment** · **Business Diagnostics**
 
 ---
 
-## 📫 Contact
+## Roles I'm exploring
 
-If you're hiring, collaborating, or just want to talk:
+Strategy & Operations · Business Operations · Central Operations · Market Operations · Program Management
 
-📩 **architkannan@zohomail.in**
+---
+
+## Contact
+
+architkannan@zohomail.in
