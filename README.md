@@ -10,15 +10,6 @@ Most of what I've done professionally comes down to the same problem in differen
 
 ---
 
-## What I work on
-
-1. Diagnosing where **distributed operations** are breaking, not from dashboards but from first-principles analysis of workflow, data capture, and system design.
-2. Defining **KPIs** before worrying about how to display them.
-3. Building the **operating models, process frameworks, and governance rhythms** that make execution accountable.
-4. Writing functional specifications for systems that do not exist yet and need to be stood up under live conditions.
-
----
-
 ## Tools and skills
 
 **SQL** · **Power BI** (Microsoft PL-300 certified) · **Advanced Excel** · **KPI Design** · **Process Design** · **Operating Process Design** · **Stakeholder Alignment** · **Business Diagnostics**
