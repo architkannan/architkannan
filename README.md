@@ -18,7 +18,7 @@ Most of what I've done professionally comes down to the same problem in differen
 
 ## Roles I'm exploring
 
-Strategy & Operations · Business Operations · Central Operations · Market Operations · Program Management
+Strategy & Operations · Business Operations · Central Operations · Program Management
 
 ---
 
